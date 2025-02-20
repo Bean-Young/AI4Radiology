@@ -1,5 +1,5 @@
 # AI4Med
-| No. | Name |Imaging |   Detail| Link｜
+| No. | Name |Imaging |   Detail| Link |
 |----:|--------|---------|------|------|
 
 
