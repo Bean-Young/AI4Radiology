@@ -1,8 +1,8 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1   :|BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
-|2   :|CIRS| B-mode|pending|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
+|1   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
+|2   |CIRS| B-mode|pending|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
 
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
