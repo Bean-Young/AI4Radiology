@@ -20,6 +20,14 @@
 |17   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
 |18   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
 |19   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
+| 20 | VerSE | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/verse-1) |
+|21 | LIDC-IDRI | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
+| 22 |  SciVis | CT | need to be modified | [🔗](https://klacansky.com/open-scivis-datasets/) |
+| 23 | COVID-CT | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/covid-ct) |
+| 24 | KiTS19 | CT | need to be modified| [🔗](https://paperswithcode.com/dataset/kits19) |
+| 25 | AAPM 2016 CT Low Dose Challenge | CT | need to be modified | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
+| 26 | AAPM TG 119  | CT | need to be modified | [🔗](https://zenodo.org/records/8037934) | 
+| 27 | CTSpine1K| CT| need to be modified | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----:|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
