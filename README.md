@@ -28,7 +28,9 @@
 | 25 | AAPM 2016 CT Low Dose Challenge | CT | need to be modified | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
 | 26 | AAPM TG 119  | CT | need to be modified | [🔗](https://zenodo.org/records/8037934) | 
 | 27 | CTSpine1K| CT| need to be modified | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
-| 28 |
+| 28 | COVID-19 Lung CT Scans | CT | need to be modified | [🔗](https://www.kaggle.com/datasets/mehradaria/covid19-lung-ct-scans) |
+| 29 |  TCIA | CT | need to be modified | [🔗](https://www.cancerimagingarchive.net/) |
+| 30 | 
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----:|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
