@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc02533e-9c0f-4c12-8227-b0047623c681)# AI4Med
+# AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
 |1   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
