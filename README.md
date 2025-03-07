@@ -1,7 +1,7 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1   |BraTS| MRI|Segment brain glioblastoma sub-regions Predict $O^6$-methylguanine-DNA methyltransferase promoter methylation status |[🔗](http://braintumorsegmentation.org/)|
+|1   |BraTS| MRI|Segment brain glioblastoma sub-regions Predict O⁶-methylguanine-DNA methyltransferase promoter methylation status |[🔗](http://braintumorsegmentation.org/)|
 |2   |CIRS| US|Agricultural economics;irrigation water;China Background;commons;Rural Areas;Agricultural Economics;Farm Management,Rural Management and Agribusiness|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
 |3   |Wysocki et al.| US|optimizing neural representations of ultrasound images|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
 |4   |MMWHS| CT MRI|120 three-dimensional cardiac images covering the whole heart, including 60 CT and 60 MRI volumes, all acquired in clinical environments with manual delineation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
@@ -28,7 +28,7 @@
 | 25 | AAPM 2016 CT Low Dose Challenge | CT |  A simulated dataset coming from the AAPM 2016 CT Low Dose Challenge  | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
 | 26 | AAPM TG 119  | CT | Ten patient cases annotated with lesion locations and twenty patient cases for use as the test cases. | [🔗](https://zenodo.org/records/8037934) | 
 | 27 | CTSpine1K| CT| This dataset, curated from multiple sources, is designed for spinal vertebrae segmentation and can also be applied to 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
-| 28 |  TCIA | CT | need to be modified | [🔗](https://www.cancerimagingarchive.net/) |
+| 28 |  TCIA | CT | generate Digital Reconstructed Radiographs 120 de-identified Thoracic CT scans from COVID negative patients | [🔗](https://www.cancerimagingarchive.net/) |
 | 29 | μ-RegPro |MR US|evaluate the performance of multimodal image registration methods between pre- and intra-operative imaging techniques to assist prostate biopsy and focal therapy for surgical and interventional tasks.|[🔗](https://muregpro.github.io/data.html)
 | 30 |  OCMR|MRI|provides multi-coil k-space data for cardiac cine |[🔗](https://github.com/MRIOSU/OCMR)
 
