@@ -1,37 +1,36 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1   |BraTS| MRI|pending|[🔗](http://braintumorsegmentation.org/)|
-|2   |CIRS| US|pending|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
-|3   |Wysocki et al.| US|pending|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
-|4   |MMWHS| CT MRI|pending|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
-|5   | SLAWT|CT MRI|pending|[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
-|6   | LASC|CT MRI|pending|[🔗](https://github.com/catactg/lasc)|
-|7   | FastMRI| MRI|pending|[🔗]( https://fastmri.med.nyu.edu/)|
-|8   |Set14| MRI|pending|[🔗](https://paperswithcode.com/dataset/set14)|
-|9   |Set5| MRI|pending|[🔗](https://paperswithcode.com/dataset/set5)|
-|10   |OASIS-1| MRI|pending|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-1/)|
-|11   |OASIS-3| MRI PET|pending|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-3/)|
-|12   |ADNI| MRI|pending|[🔗](https://adni.loni.usc.edu/data-samples/adni-data/)|
-|13   |HCP| MRI|pending|[🔗](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)|
-|14   | dHCP| MRI|pending|[🔗](https://paperswithcode.com/dataset/dhcp)|
-|15   |MRI-based Brain| MRI|pending|[🔗](https://ieeexplore.ieee.org/abstract/document/1717639) [🔗](https://ieeexplore.ieee.org/abstract/document/9061047)|
-|16   |BrainWeb| PET|pending|[🔗](https://brainweb.bic.mni.mcgill.ca/brainweb/)|
-|17   |MSD| MRI|pending|[🔗](http://medicaldecathlon.com/)|
-|18   |DCE-MRI| MRI|pending|[🔗](https://github.com/smallboy-code/Breast-cancer-dataset?tab=readme-ov-file)|
-|19   |SKMTEA| MRI|pending|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
-| 20 | VerSE | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/verse-1) |
-|21 | LIDC-IDRI | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
-| 22 |  SciVis | CT | need to be modified | [🔗](https://klacansky.com/open-scivis-datasets/) |
-| 23 | COVID-CT | CT | need to be modified | [🔗](https://paperswithcode.com/dataset/covid-ct) |
-| 24 | KiTS19 | CT | need to be modified| [🔗](https://paperswithcode.com/dataset/kits19) |
-| 25 | AAPM 2016 CT Low Dose Challenge | CT | need to be modified | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
-| 26 | AAPM TG 119  | CT | need to be modified | [🔗](https://zenodo.org/records/8037934) | 
-| 27 | CTSpine1K| CT| need to be modified | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
-| 28 | COVID-19 Lung CT Scans | CT | need to be modified | [🔗](https://www.kaggle.com/datasets/mehradaria/covid19-lung-ct-scans) |
-| 29 |  TCIA | CT | need to be modified | [🔗](https://www.cancerimagingarchive.net/) |
-| 30 | μ-RegPro |MR US|pending|[🔗](https://muregpro.github.io/data.html)
-| 31 |  OCMR|MRI|pending|[🔗](https://github.com/MRIOSU/OCMR)
+|1   |BraTS| MRI|Segment brain glioblastoma sub-regions Predict $O^6$-methylguanine-DNA methyltransferase promoter methylation status |[🔗](http://braintumorsegmentation.org/)|
+|2   |CIRS| US|Agricultural economics;irrigation water;China Background;commons;Rural Areas;Agricultural Economics;Farm Management,Rural Management and Agribusiness|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
+|3   |Wysocki et al.| US|optimizing neural representations of ultrasound images|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
+|4   |MMWHS| CT MRI|120 three-dimensional cardiac images covering the whole heart, including 60 CT and 60 MRI volumes, all acquired in clinical environments with manual delineation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
+|5   | SLAWT|CT MRI|an open-source benchmarking dataset for left atrial wall segmentation algorithms |[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
+|6   | LASC|CT MRI|Each participant segmented the LA including a short part of the LA appendage trunk and proximal sections of the pulmonary veins|[🔗](https://github.com/catactg/lasc)|
+|7   | FastMRI| MRI|k-space and image data of knee examinations for accelerated MR image reconstruction using machine learning|[🔗]( https://fastmri.med.nyu.edu/)|
+|8   |Set14| MRI|dataset  for Super Resolution of images;contains various images of buildings to animal faces|[🔗](https://paperswithcode.com/dataset/set14)|
+|9   |Set5| MRI|a dataset consisting of five images (" baby ", "bird", "butterfly", "head", "woman") that are commonly used to test the performance of image super-resolution models|[🔗](https://paperswithcode.com/dataset/set5)|
+|10   |OASIS-1| MRI|Cross-sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-1/)|
+|11   |OASIS-3| MRI PET|a significant database of neuroimaging and processed imaging data in participants with normal aging and Alzheimer's Disease|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-3/)|
+|12   |ADNI| MRI|longitudinal clinical, imaging, genetic, and other biomarker data|[🔗](https://adni.loni.usc.edu/data-samples/adni-data/)|
+|13   |HCP| MRI|High-level extensively processed data ; Group ICA-based parcellation + timeseries + netmats datasets.|[🔗](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)|
+|14   | dHCP| MRI|create a dynamic map of human brain connectivity during early development|[🔗](https://paperswithcode.com/dataset/dhcp)|
+|15   |MRI-based Brain| MRI|contains simulated brain MRI data based on two anatomical models: normal and multiple sclerosis (MS) |[🔗](https://ieeexplore.ieee.org/abstract/document/1717639) [🔗](https://ieeexplore.ieee.org/abstract/document/9061047)|
+|16   |BrainWeb| PET|train the SGM models and simulate PET images with different noise levels and lesion conditions to evaluate the reconstruction performance and robustness of the model.|[🔗](https://brainweb.bic.mni.mcgill.ca/brainweb/)|
+|17   |MSD| MRI|multiparametric magnetic resonance imaging (MRI) scans from patients diagnosed with either glioblastoma or lower-grade glioma|[🔗](http://medicaldecathlon.com/)|
+|18   |DCE-MRI| MRI|A dataset of 232 patients selected with DCE-MR images for benign and malignant cases|[🔗](https://github.com/smallboy-code/Breast-cancer-dataset?tab=readme-ov-file)|
+|19   |SKMTEA| MRI|155:anonymized patient MRI scans,DICOM images 4:manual segmentations of four tissues|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
+| 20 | VerSE | CT | 19: 160 CT image series.20: includes 300 multidetector computed tomography | [🔗](https://paperswithcode.com/dataset/verse-1) |
+|21 | LIDC-IDRI | CT |  diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
+| 22 |  SciVis | CT | Rotational C-arm x-ray scan of a human foot. Tissue and bone CT scan of abdomen in prone orientation (back faces ceiling, belly faces table) | [🔗](https://klacansky.com/open-scivis-datasets/) |
+| 23 | COVID-CT | CT | Lung &216 &contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs | [🔗](https://paperswithcode.com/dataset/covid-ct) |
+| 24 | KiTS19 | CT | dataset of segmented CT imaging and treatment outcomes for 300 patients treated with partial or radical nephrectomy| [🔗](https://paperswithcode.com/dataset/kits19) |
+| 25 | AAPM 2016 CT Low Dose Challenge | CT |  A simulated dataset coming from the AAPM 2016 CT Low Dose Challenge  | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
+| 26 | AAPM TG 119  | CT | Ten patient cases annotated with lesion locations and twenty patient cases for use as the test cases. | [🔗](https://zenodo.org/records/8037934) | 
+| 27 | CTSpine1K| CT| This dataset, curated from multiple sources, is designed for spinal vertebrae segmentation and can also be applied to 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
+| 28 |  TCIA | CT | need to be modified | [🔗](https://www.cancerimagingarchive.net/) |
+| 29 | μ-RegPro |MR US|pending|[🔗](https://muregpro.github.io/data.html)
+| 30 |  OCMR|MRI|pending|[🔗](https://github.com/MRIOSU/OCMR)
 
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
