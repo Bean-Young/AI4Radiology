@@ -29,9 +29,8 @@
 | 26 | AAPM TG 119  | CT | Ten patient cases annotated with lesion locations and twenty patient cases for use as the test cases. | [🔗](https://zenodo.org/records/8037934) | 
 | 27 | CTSpine1K| CT| This dataset, curated from multiple sources, is designed for spinal vertebrae segmentation and can also be applied to 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 | 28 |  TCIA | CT | need to be modified | [🔗](https://www.cancerimagingarchive.net/) |
-| 29 | μ-RegPro |MR US|pending|[🔗](https://muregpro.github.io/data.html)
-| 30 |  OCMR|MRI|pending|[🔗](https://github.com/MRIOSU/OCMR)
-
+| 29 | μ-RegPro |MR US|evaluate the performance of multimodal image registration methods between pre- and intra-operative imaging techniques to assist prostate biopsy and focal therapy for surgical and interventional tasks.|[🔗](https://muregpro.github.io/data.html)
+| 30 |  OCMR|MRI|provides multi-coil k-space data for cardiac cine |[🔗](https://github.com/MRIOSU/OCMR)
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----:|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
