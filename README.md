@@ -1,12 +1,12 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1   |BraTS| MRI|Segment brain glioblastoma sub-regions Predict O⁶-methylguanine-DNA methyltransferase promoter methylation status |[🔗](http://braintumorsegmentation.org/)|
-|2   |CIRS| US|Agricultural economics;irrigation water;China Background;commons;Rural Areas;Agricultural Economics;Farm Management,Rural Management and Agribusiness|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
-|3   |Wysocki et al.| US|optimizing neural representations of ultrasound images|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
-|4   |MMWHS| CT MRI|120 three-dimensional cardiac images covering the whole heart, including 60 CT and 60 MRI volumes, all acquired in clinical environments with manual delineation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
-|5   | SLAWT|CT MRI|an open-source benchmarking dataset for left atrial wall segmentation algorithms |[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
-|6   | LASC|CT MRI|Each participant segmented the LA including a short part of the LA appendage trunk and proximal sections of the pulmonary veins|[🔗](https://github.com/catactg/lasc)|
+|1   |CIRS| US|Agricultural economics;irrigation water;China Background;commons;Rural Areas;Agricultural Economics;Farm Management,Rural Management and Agribusiness|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
+|2  |Wysocki et al.| US|optimizing neural representations of ultrasound images|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
+|3  |MMWHS| CT MRI|120 three-dimensional cardiac images covering the whole heart, including 60 CT and 60 MRI volumes, all acquired in clinical environments with manual delineation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
+|4   | SLAWT|CT MRI|an open-source benchmarking dataset for left atrial wall segmentation algorithms |[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
+|5   | LASC|CT MRI|Each participant segmented the LA including a short part of the LA appendage trunk and proximal sections of the pulmonary veins|[🔗](https://github.com/catactg/lasc)|
+|6 |BraTS| MRI|Segment brain glioblastoma sub-regions Predict O⁶-methylguanine-DNA methyltransferase promoter methylation status |[🔗](http://braintumorsegmentation.org/)|
 |7   | FastMRI| MRI|k-space and image data of knee examinations for accelerated MR image reconstruction using machine learning|[🔗]( https://fastmri.med.nyu.edu/)|
 |8   |Set14| MRI|dataset  for Super Resolution of images;contains various images of buildings to animal faces|[🔗](https://paperswithcode.com/dataset/set14)|
 |9   |Set5| MRI|a dataset consisting of five images (" baby ", "bird", "butterfly", "head", "woman") that are commonly used to test the performance of image super-resolution models|[🔗](https://paperswithcode.com/dataset/set5)|
@@ -16,12 +16,12 @@
 |13   |HCP| MRI|High-level extensively processed data ; Group ICA-based parcellation + timeseries + netmats datasets.|[🔗](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)|
 |14   | dHCP| MRI|create a dynamic map of human brain connectivity during early development|[🔗](https://paperswithcode.com/dataset/dhcp)|
 |15   |MRI-based Brain| MRI|contains simulated brain MRI data based on two anatomical models: normal and multiple sclerosis (MS) |[🔗](https://ieeexplore.ieee.org/abstract/document/1717639) [🔗](https://ieeexplore.ieee.org/abstract/document/9061047)|
-|16   |BrainWeb| PET|train the SGM models and simulate PET images with different noise levels and lesion conditions to evaluate the reconstruction performance and robustness of the model.|[🔗](https://brainweb.bic.mni.mcgill.ca/brainweb/)|
+|16   |SKMTEA| MRI|155:anonymized patient MRI scans,DICOM images 4:manual segmentations of four tissues|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
 |17   |MSD| MRI|multiparametric magnetic resonance imaging (MRI) scans from patients diagnosed with either glioblastoma or lower-grade glioma|[🔗](http://medicaldecathlon.com/)|
 |18   |DCE-MRI| MRI|A dataset of 232 patients selected with DCE-MR images for benign and malignant cases|[🔗](https://github.com/smallboy-code/Breast-cancer-dataset?tab=readme-ov-file)|
-|19   |SKMTEA| MRI|155:anonymized patient MRI scans,DICOM images 4:manual segmentations of four tissues|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
-| 20 | VerSE | CT | 19: 160 CT image series.20: includes 300 multidetector computed tomography | [🔗](https://paperswithcode.com/dataset/verse-1) |
-|21 | LIDC-IDRI | CT |  diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
+|19   |BrainWeb| PET|train the SGM models and simulate PET images with different noise levels and lesion conditions to evaluate the reconstruction performance and robustness of the model.|[🔗](https://brainweb.bic.mni.mcgill.ca/brainweb/)|
+|20 | μ-RegPro |MR US|evaluate the performance of multimodal image registration methods between pre- and intra-operative imaging techniques to assist prostate biopsy and focal therapy for surgical and interventional tasks.|[🔗](https://muregpro.github.io/data.html)
+| 21 |  OCMR|MRI|provides multi-coil k-space data for cardiac cine |[🔗](https://github.com/MRIOSU/OCMR)
 | 22 |  SciVis | CT | Rotational C-arm x-ray scan of a human foot. Tissue and bone CT scan of abdomen in prone orientation (back faces ceiling, belly faces table) | [🔗](https://klacansky.com/open-scivis-datasets/) |
 | 23 | COVID-CT | CT | Lung &216 &contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs | [🔗](https://paperswithcode.com/dataset/covid-ct) |
 | 24 | KiTS19 | CT | dataset of segmented CT imaging and treatment outcomes for 300 patients treated with partial or radical nephrectomy| [🔗](https://paperswithcode.com/dataset/kits19) |
@@ -29,9 +29,8 @@
 | 26 | AAPM TG 119  | CT | Ten patient cases annotated with lesion locations and twenty patient cases for use as the test cases. | [🔗](https://zenodo.org/records/8037934) | 
 | 27 | CTSpine1K| CT| This dataset, curated from multiple sources, is designed for spinal vertebrae segmentation and can also be applied to 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 | 28 |  Tasi and  Clark et al. | CT | generate Digital Reconstructed Radiographs 120 de-identified Thoracic CT scans from COVID negative patients | [🔗](https://www.cancerimagingarchive.net/) |
-| 29 | μ-RegPro |MR US|evaluate the performance of multimodal image registration methods between pre- and intra-operative imaging techniques to assist prostate biopsy and focal therapy for surgical and interventional tasks.|[🔗](https://muregpro.github.io/data.html)
-| 30 |  OCMR|MRI|provides multi-coil k-space data for cardiac cine |[🔗](https://github.com/MRIOSU/OCMR)
-
+| 29 | VerSE | CT | 19: 160 CT image series.20: includes 300 multidetector computed tomography | [🔗](https://paperswithcode.com/dataset/verse-1) |
+|30 | LIDC-IDRI | CT |  diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----:|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
 | 1 |[X2CT-GAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ying_X2CT-GAN_Reconstructing_CT_From_Biplanar_X-Rays_With_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)|X2CT-GAN: Reconstructing CT From Biplanar X-Rays With Generative Adversarial Networks|CVPR(2019)|CT|Slice|A GAN-based model that reconstructs high-resolution 3D CT images from biplanar 2D X-rays using a specially designed generator and combined loss functions.|<details><summary>Click</summary>Computed tomography (CT) can provide a 3D view of the patient's internal organs, facilitating disease diagnosis, but it incurs more radiation dose to a patient and a CT scanner is much more cost prohibitive than an X-ray machine too. Traditional CT reconstruction methods require hundreds of X-ray projections through a full rotational scan of the body, which cannot be performed on a typical X-ray machine. In this work, we propose to reconstruct CT from two orthogonal X-rays using the generative adversarial network (GAN) framework. A specially designed generator network is exploited to increase data dimension from 2D (X-rays) to 3D (CT), which is not addressed in previous research of GAN. A novel feature fusion method is proposed to combine information from two X-rays. The mean squared error (MSE) loss and adversarial loss are combined to train the generator, resulting in a high-quality CT volume both visually and quantitatively. Extensive experiments on a publicly available chest CT dataset demonstrate the effectiveness of the proposed method. It could be a nice enhancement of a low-cost X-ray machine to provide physicians a CT-like 3D volume in several niche applications.</details> | ❌
