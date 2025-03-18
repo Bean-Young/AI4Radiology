@@ -28,7 +28,7 @@
 | 26 | AAPM TG 119  | CT | Ten patient cases annotated with lesion locations and twenty patient cases for use as the test cases. | [🔗](https://zenodo.org/records/8037934) | 
 | 27 | CTSpine1K| CT| This dataset, curated from multiple sources, is designed for spinal vertebrae segmentation and can also be applied to 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 | 28 |  Tasi and  Clark et al. | CT | generate Digital Reconstructed Radiographs 120 de-identified Thoracic CT scans from COVID negative patients | [🔗](https://www.cancerimagingarchive.net/) |
-| 29 | VerSE | CT | 19: 160 CT image series.20: includes 300 multidetector computed tomography | [🔗](https://paperswithcode.com/dataset/verse-1) |
+| 29 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
 |30 | LIDC-IDRI | CT |  diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
