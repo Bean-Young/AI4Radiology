@@ -1,7 +1,6 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1   |CIRS| US|Agricultural economics;irrigation water;China Background;commons;Rural Areas;Agricultural Economics;Farm Management,Rural Management and Agribusiness|[🔗](https://service.tib.eu/ldmservice/dataset/cirs-phantom-dataset)|
 |2  |Wysocki et al.| US|optimizing neural representations of ultrasound images|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
 |3  |MMWHS| CT MRI|120 three-dimensional cardiac images covering the whole heart, including 60 CT and 60 MRI volumes, all acquired in clinical environments with manual delineation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
 |4   | SLAWT|CT MRI|an open-source benchmarking dataset for left atrial wall segmentation algorithms |[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
