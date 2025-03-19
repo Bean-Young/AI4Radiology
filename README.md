@@ -35,7 +35,6 @@
 |35|Aubert-Broche et al.|MRI|T1, T2, and proton density (PD)-weighted magnetic resonance imaging (MRI) scans from each subject.|[🔗](https://ieeexplore.ieee.org/abstract/document/1717639?signout=success) |
 |36|Ultrasound in the wild|US| The suprapatellar longitudinal view of the suprapatellar recess of the knee|[🔗](https://rishitdagli.com/nerf-us/) |
 |37|MIDRC-RICORD-1B|CT|De-identified dataset from  COVID negative patients|[🔗](https://www.cancerimagingarchive.net/collection/midrc-ricord-1b/) |
-|38|Schmainda et al.|MRI|MRI images of patients with newly diagnosed primary glioblastoma.|
 |39|Corona-Figueroa et al.|CT|Digital Reconstructed Radiographs (DRRs) from chest and knee CT scans.|[🔗](https://github.com/abrilcf/mednerf) |
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
