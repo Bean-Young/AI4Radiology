@@ -23,7 +23,7 @@
 | 22 |  SciVis | CT | Rotational C-arm x-ray scan of a human foot. Tissue and bone CT scan of abdomen in prone orientation (back faces ceiling, belly faces table) | [🔗](https://klacansky.com/open-scivis-datasets/) |
 | 23 | COVID-CT-Dataset | CT | Contains COVID-19 CT images from patients and non-COVID-19 CTs | [🔗](https://paperswithcode.com/dataset/covid-ct) |
 | 24 | KiTS19 | CT | dataset of segmented CT imaging and treatment outcomes for 300 patients treated with partial or radical nephrectomy| [🔗](https://paperswithcode.com/dataset/kits19) |
-| 25 | AAPM 2016 CT Low Dose Challenge | CT |contrast-enhanced abdominal CT patient scans, each acquired in the portal venous phase using a Siemens SOMATOM Flash scanner.  | [🔗](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/) |
+| 25 |LDCT | CT |contrast-enhanced abdominal CT patient scans, each acquired in the portal venous phase using a Siemens SOMATOM Flash scanner.  | [🔗](https://doi.org/10.7937/9npb-2637) |
 | 27 | CTSpine1K| CT|  Dataset curated from mutiple sources for spinal vertebrae segmentation and 3D spine reconstruction | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 |28 |Landman et al|MRI|Multimodal MRI dataset.|[🔗](http://www.nitrc.org/projects/multimodal/) | 
 | 29 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
