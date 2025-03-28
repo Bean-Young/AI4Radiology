@@ -17,7 +17,7 @@
 |16   |SKMTEA| MRI|A dataset that pairs raw quantitative knee MRI (qMRI) data, image data, and dense annotations of tissue and pathology for end-to-end exploration and evaluation of the MR imaging pipeline.|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
 |17   |MSD| MRI|multiparametric magnetic resonance imaging (MRI) scans from patients diagnosed with either glioblastoma or lower-grade glioma|[🔗](http://medicaldecathlon.com/)|
 |18   |DCE-MRI| MRI|DCE-MR images for benign and malignant breast tumor cases.|[🔗](https://github.com/smallboy-code/Breast-cancer-dataset?tab=readme-ov-file)|
-|19   |MITEA| US|The largest publicly available 3DE dataset to date|[🔗](https://pubmed.ncbi.nlm.nih.gov/36704465/)|
+|19   |MITEA| US|The largest publicly available 3DE dataset to date|[🔗](https://www.cardiacatlas.org/mitea/)|
 |20 | μ-RegPro |MR US|Dataset for assisting prostate biopsy and focal therapy, surgical and interventional tasks |[🔗](https://muregpro.github.io/data.html)
 | 21 |  OCMR|MRI|Multi-coil k-space data and undersampled cardiac cine series.  |[🔗](https://github.com/MRIOSU/OCMR)
 | 22 |  SciVis | CT | Rotational C-arm x-ray scan of a human foot. Tissue and bone CT scan of abdomen in prone orientation (back faces ceiling, belly faces table) | [🔗](https://klacansky.com/open-scivis-datasets/) |
