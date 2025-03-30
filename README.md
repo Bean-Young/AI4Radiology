@@ -1,7 +1,7 @@
 # AI4Med
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
-|1  |IXI|MRI|T1, T2 and PD-weighted images, Diffusion-weighted and MRA images from normal, healthy subjects.|[🔗](https://brain-development.org/ixi-dataset/)|
+|29  |IXI|MRI|T1, T2 and PD-weighted images, Diffusion-weighted and MRA images from normal, healthy subjects.|[🔗](https://brain-development.org/ixi-dataset/)|
 |2  |Wysocki et al.| US|A dataset of synthetic liver ultrasound images and tracked spine phantom scans.|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
 |3  |MMWHS| CT MRI|Three-dimensional CT and MRI images covering the entire heart for cardiac segmentation.|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
 |4   | SLAWT|CT MRI|Dataset for left atrial wall segmentation algorithms |[🔗](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html)|
@@ -26,7 +26,7 @@
 | 25 |LDCT | CT |contrast-enhanced abdominal CT patient scans, each acquired in the portal venous phase using a Siemens SOMATOM Flash scanner.  | [🔗](https://doi.org/10.7937/9npb-2637) |
 | 27 | CTSpine1K| CT|  Dataset curated from mutiple sources for spinal vertebrae segmentation and 3D spine reconstruction | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 |28 |Landman et al|MRI|Multimodal MRI dataset.|[🔗](http://www.nitrc.org/projects/multimodal/) | 
-| 29 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
+| 1 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
 |30 | LIDC-IDRI | CT |  A low-dose lung CT dataset for lung nodule classification, segmentation, and detection. | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
 |31|FeTA|MRI|T2-weighted fetal brain reconstructions of both normal and pathological brains across various gestational ages. |[🔗](https://www.synapse.org/Synapse:syn25649159/wiki/610007) |
 |32| Xu et al|MRI|volumetric MRI time series at a gestational age ranging from 25 to 35 weeks.|[🔗](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) |
