@@ -51,6 +51,11 @@ Unlike other medical imaging tasks, reconstruction often requires subjects to un
 
 ## ***Literature***
 
+Explicit representations were initially used for AI-assisted reconstruction of radiological imaging. At first, the most typical explicit reconstruction methods were slice-based, meaning that experiments were conducted using individual slices. However, such methods overlooked the longitudinal continuity of radiology images, leading to severe artifacts or inconsistencies across slices. Later, volume-based reconstruction methods emerged. Unlike slice-based approaches, volume representations incorporate spatial information at each location, enabling more accurate restoration of radiology images. Recently, an explicit Gaussian representation integrated with neural radiance field concepts, known as 3DGS, has gained significant attention in radiological imaging due to its precise representation and high reconstruction efficiency. 
+
+Unlike discrete explicit representations that directly encode features or signal values, implicit representations are defined as continuous generative functions that map input coordinates to corresponding values within the input space. Existing implicit representations in radiology imaging applications can be categorized into two main types: Implicit Prior Embedding (IPE) and Neural Radiance Fields (NRF). IPE incorporates prior information into the representation space or model parameter space, allowing the model to automatically learn features that conform to the given prior during training. On the other hand, NRF have gained attention in radiology imaging reconstruction since their introduction due to their ability to generate high-resolution, photorealistic images and render realistic 3D views from arbitrary perspectives.
+
+The literature review can be found in Table below.
 
 ---
 ### Paper 01: [X2CT-GAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ying_X2CT-GAN_Reconstructing_CT_From_Biplanar_X-Rays_With_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
