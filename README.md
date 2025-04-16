@@ -370,7 +370,7 @@ The literature review can be found in Table below.
 - **Code**: ❌
 
 ---
-### Paper 29: [CINE](https://www.nature.com/articles/s41598-020-70551-8.pdf)
+### Paper 29: [CINENet](https://www.nature.com/articles/s41598-020-70551-8.pdf)
 - **Title**: CINENet: deep learning-based 3D cardiac CINE MRI reconstruction with multi-coil complex-valued 4D spatio-temporal convolutions  
 - **Pub**: Sci.report(2020)  
 - **Imaging**: MRI  
