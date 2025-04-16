@@ -1,4 +1,15 @@
-# AI4Med
+# AI4Radiology
+
+This project is created by ***Yuezhe Yang*** for paper "**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**" ([Paper Link](https://arxiv.org/pdf/2504.11349)). 
+
+### [Project Page](https://.github.io)
+
+## ***Abstract***
+
+The demand for high-quality medical imaging in clinical practice and assisted diagnosis has made 3D reconstruction in radiological imaging a key research focus. Artificial intelligence (AI) has emerged as a promising approach to enhancing reconstruction accuracy while reducing acquisition and processing time, thereby minimizing patient radiation exposure and discomfort and ultimately benefiting clinical diagnosis. This review explores state-of-the-art AI-based 3D reconstruction algorithms in radiological imaging, categorizing them into explicit and implicit approaches based on their underlying principles. Explicit methods include point-based, volume-based, and Gaussian representations, while implicit methods encompass implicit prior embedding and neural radiance fields. Additionally, we examine commonly used evaluation metrics and benchmark datasets. Finally, we discuss the current state of development, key challenges, and future research directions in this evolving field. Our project available on: [this https URL](https://github.com/Bean-Young/AI4Med).
+
+## ***Dataset***
+
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
 | 1 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
@@ -34,6 +45,7 @@
 |31  |OASIS-3| MRI PET|neuroimaging and processed imaging data in participants with normal aging and Alzheimer's Disease|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-3/)|
 |32 | μ-RegPro |MR US|Dataset for assisting prostate biopsy and focal therapy, surgical and interventional tasks |[🔗](https://muregpro.github.io/data.html)
 
+## ***Literature***
 
 | No. | Name | Paper Title | Pub |Imaging | Based | Main Contribution |  Abstract | Code |
 |----|--------|-------------------|------|------|------|---------------------------------|-----------|----------|
