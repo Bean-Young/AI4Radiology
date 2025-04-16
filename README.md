@@ -10,6 +10,10 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 
 ## ***Dataset***
 
+In the task of 3D reconstruction in radiological imaging, publicly available datasets play a crucial role. High-quality, standardized data is essential for algorithm training, validation, and testing. Public datasets provide researchers with a unified benchmark, enabling fair comparisons of different methods under the same conditions, thereby facilitating algorithm optimization and advancement.
+
+Unlike other medical imaging tasks, reconstruction often requires subjects to undergo two scans under comparable conditions, particularly maintaining consistent positioning, posture, and physiological state, in order to obtain corresponding test samples and ground truth data. Additionally, medical data is subject to strict legal and regulatory constraints due to patient privacy concerns, making data collection both challenging and costly. The availability of public datasets significantly lowers the barrier to data access. Our review provides the most comprehensive publicly available datasets for 3D reconstruction in radiological imaging tasks, including CT, MRI, PET, US, and Multi-modality datasets. The specific details are presented in Table below.
+
 | No. | Name |Imaging |   Detail| Link |
 |----:|--------|------|---------------------------------|-----------|
 | 1 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
