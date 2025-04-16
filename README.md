@@ -47,7 +47,9 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 
 ## ***Literature***
 
-## Paper 1: [X2CT-GAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ying_X2CT-GAN_Reconstructing_CT_From_Biplanar_X-Rays_With_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
+
+---
+### Paper 01: [X2CT-GAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ying_X2CT-GAN_Reconstructing_CT_From_Biplanar_X-Rays_With_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
 - **Title**: X2CT-GAN: Reconstructing CT From Biplanar X-Rays With Generative Adversarial Networks  
 - **Conference**: CVPR(2019)  
 - **Imaging**: CT  
@@ -59,7 +61,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 2: [CTTR](https://www.sciencedirect.com/science/article/pii/S1120179722020154?casa_token=Mdbm9fp-4jUAAAAA:ii0SPXB6Gu78vHYhCDRpD_EnF1EgPgKwJkIuTFQt4bn3XafYjbAqZAPbTAx8X7zXPCQte1bo4LFw)
+### Paper 02: [CTTR](https://www.sciencedirect.com/science/article/pii/S1120179722020154?casa_token=Mdbm9fp-4jUAAAAA:ii0SPXB6Gu78vHYhCDRpD_EnF1EgPgKwJkIuTFQt4bn3XafYjbAqZAPbTAx8X7zXPCQte1bo4LFw)
 - **Title**: Dual-domain sparse-view CT reconstruction with Transformers  
 - **Conference**: Physica Medica(2022)  
 - **Imaging**: CT  
@@ -71,7 +73,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 3: [DuDoTrans](https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9)
+### Paper 03: [DuDoTrans](https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9)
 - **Title**: DuDoTrans: Dual-Domain Transformer for Sparse-View CT Reconstruction  
 - **Conference**: MLMIR(2022)  
 - **Imaging**: CT  
@@ -83,7 +85,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 4: [CoreDiff](https://arxiv.org/pdf/2304.01814)
+### Paper 04: [CoreDiff](https://arxiv.org/pdf/2304.01814)
 - **Title**: CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization  
 - **Conference**: IEEE TMI(2023)  
 - **Imaging**: CT  
@@ -95,7 +97,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/qgao21/CoreDiff)
 
 ---
-## Paper 7: [Du et al.](https://www.sciencedirect.com/science/article/pii/S0925231219304771)
+### Paper 05: [Du et al.](https://www.sciencedirect.com/science/article/pii/S0925231219304771)
 - **Title**: Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network  
 - **Conference**: Neucom.(2020)  
 - **Imaging**: MRI  
@@ -107,7 +109,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 8: [SLATER](https://arxiv.org/pdf/2105.08059)
+### Paper 06: [SLATER](https://arxiv.org/pdf/2105.08059)
 - **Title**: Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers  
 - **Conference**: TMI(2022)  
 - **Imaging**: MRI  
@@ -119,7 +121,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/icon-lab/SLATER)
 
 ---
-## Paper 9: [PCNN](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4405)
+### Paper 07: [PCNN](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4405)
 - **Title**: Rapid reconstruction of highly undersampled, non-Cartesian real-time cine k-space data using a perceptual complex neural network (PCNN)  
 - **Conference**: NMRB(2021)  
 - **Imaging**: MRI  
@@ -131,7 +133,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 10: [Wei et al.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16141)
+### Paper 08: [Wei et al.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16141)
 - **Title**: Real-time 3D MRI reconstruction from cine-MRI using unsupervised network in MRI-guided radiotherapy for liver cancer  
 - **Conference**: Med. Phys.(2022)  
 - **Imaging**: MRI  
@@ -143,7 +145,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 11: [MCAD](https://arxiv.org/pdf/2406.13150)
+### Paper 09: [MCAD](https://arxiv.org/pdf/2406.13150)
 - **Title**: MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction  
 - **Conference**: MICCAI(2024)  
 - **Imaging**: PET  
@@ -155,7 +157,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 12: [MEaTransGAN](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002438)
+### Paper 10: [MEaTransGAN](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002438)
 - **Title**: 3D multi-modality Transformer-GAN for high-quality PET reconstruction  
 - **Conference**: MIA(2024)  
 - **Imaging**: PET  
@@ -167,7 +169,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 13: [Singh et al.](https://arxiv.org/pdf/2308.14190)
+### Paper 11: [Singh et al.](https://arxiv.org/pdf/2308.14190)
 - **Title**: Score-Based Generative Models for PET Image Reconstruction  
 - **Conference**: MELBA(2024)  
 - **Imaging**: PET  
@@ -179,7 +181,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 14: [MambaMIR](https://www.sciencedirect.com/science/article/pii/S1361841524002597)
+### Paper 12: [MambaMIR](https://www.sciencedirect.com/science/article/pii/S1361841524002597)
 - **Title**: Enhancing global sensitivity and uncertainty quantification in medical image reconstruction with Monte Carlo arbitrary-masked mamba  
 - **Conference**: MIA(2025)  
 - **Imaging**: CT MRI  
@@ -191,7 +193,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 15: [Restore-RWKV](https://arxiv.org/pdf/2407.11087)
+### Paper 13: [Restore-RWKV](https://arxiv.org/pdf/2407.11087)
 - **Title**: Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV  
 - **Conference**: arxiv(2024)  
 - **Imaging**: CT MRI PET  
@@ -203,7 +205,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/Yaziwel/Restore-RWKV.git)
 
 ---
-## Paper 16: [DEER](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9239986)
+### Paper 14: [DEER](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9239986)
 - **Title**: Deep Efficient End-to-End Reconstruction(DEER) Network for Few-View Breast CT Image Reconstruction  
 - **Conference**: Access(2020)  
 - **Imaging**: CT  
@@ -215,7 +217,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/HuidongXie/DEER)
 
 ---
-## Paper 17: [HDnet](https://ieeexplore.ieee.org/abstract/document/9153172)
+### Paper 15: [HDnet](https://ieeexplore.ieee.org/abstract/document/9153172)
 - **Title**: Hybrid-domain neural network processing for sparse-view CT reconstruction  
 - **Conference**: TRPMS(2020)  
 - **Imaging**: CT  
@@ -227,7 +229,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 18: [Singh et al.](https://ajronline.org/doi/pdf/10.2214/AJR.19.21809)
+### Paper 16: [Singh et al.](https://ajronline.org/doi/pdf/10.2214/AJR.19.21809)
 - **Title**: Image Quality and Lesion  Detection on Deep Learning  Reconstruction and Iterative  Reconstruction of Submillisievert  Chest and Abdominal CT  
 - **Conference**: AJR(2020)  
 - **Imaging**: CT  
@@ -239,7 +241,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 19: [DLR](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020202317)
+### Paper 17: [DLR](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020202317)
 - **Title**: Improving Image Quality and Reducing Radiation Dose for Pediatric CT by Using Deep Learning Reconstruction  
 - **Conference**: Radiol.(2020)  
 - **Imaging**: CT  
@@ -251,7 +253,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 21: [DIOR](https://ieeexplore.ieee.org/abstract/document/9698177)
+### Paper 18: [DIOR](https://ieeexplore.ieee.org/abstract/document/9698177)
 - **Title**: DIOR: Deep Iterative Optimization-Based Residual-Learning for Limited-Angle CT Reconstruction  
 - **Conference**: TMI(2022)  
 - **Imaging**: CT  
@@ -263,7 +265,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 22: [FreeSeed](https://arxiv.org/pdf/2307.05890)
+### Paper 19: [FreeSeed](https://arxiv.org/pdf/2307.05890)
 - **Title**: FreeSeed: Frequency-Band-Aware and Self-guided Network for Sparse-View CT Reconstruction  
 - **Conference**: MICCAI(2023)  
 - **Imaging**: CT  
@@ -275,7 +277,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/Masaaki-75/freeseed)
 
 ---
-## Paper 23: [DiffusionMBIR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.pdf)
+### Paper 20: [DiffusionMBIR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.pdf)
 - **Title**: Solving 3D Inverse Problems Using Pre-Trained 2D Diffusion Models  
 - **Conference**: CVRP(2023)  
 - **Imaging**: CT  
@@ -287,7 +289,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/HJ-harry/DiffusionMBIR)
 
 ---
-## Paper : [DiffusionMBIR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.pdf)
+### Paper 21: [DiffusionMBIR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.pdf)
 - **Title**: Solving 3D Inverse Problems Using Pre-Trained 2D Diffusion Models  
 - **Conference**: CVPR(2023)  
 - **Imaging**: CT  
@@ -299,7 +301,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/HJ-harry/DiffusionMBIR)
 
 ---
-## Paper 24: [C²RV](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_C2RV_Cross-Regional_and_Cross-View_Learning_for_Sparse-View_CBCT_Reconstruction_CVPR_2024_paper.pdf)
+### Paper 22: [C²RV](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_C2RV_Cross-Regional_and_Cross-View_Learning_for_Sparse-View_CBCT_Reconstruction_CVPR_2024_paper.pdf)
 - **Title**: C²RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction  
 - **Conference**: CVPR(2024)  
 - **Imaging**: CT  
@@ -311,7 +313,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/xmed-lab/C2RV-CBCT)
 
 ---
-## Paper 25: [Pezzotti et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241039)
+### Paper 23: [Pezzotti et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241039)
 - **Title**: An Adaptive Intelligence Algorithm for Undersampled Knee MRI Reconstruction  
 - **Conference**: Access(2020)  
 - **Imaging**: MRI  
@@ -323,7 +325,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 26: [EMISR](https://www.sciencedirect.com/science/article/pii/S0169260719312416?casa_token=ccmALOmHwwEAAAAA:KiI5QXyplZ1HFNgEISLpq9V_wUtvmoOF7ZlectXzwYwRZ9rH4eIzdzq6BEM555v38SjolH81-g)
+### Paper 24: [EMISR](https://www.sciencedirect.com/science/article/pii/S0169260719312416?casa_token=ccmALOmHwwEAAAAA:KiI5QXyplZ1HFNgEISLpq9V_wUtvmoOF7ZlectXzwYwRZ9rH4eIzdzq6BEM555v38SjolH81-g)
 - **Title**: Super-resolution reconstruction of knee magnetic resonance imaging based on deep learning  
 - **Conference**: CMBP(2020)  
 - **Imaging**: MRI  
@@ -335,7 +337,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 27: [Shaul et al.](https://www.sciencedirect.com/science/article/pii/S1361841520301110)
+### Paper 25: [Shaul et al.](https://www.sciencedirect.com/science/article/pii/S1361841520301110)
 - **Title**: Subsampled brain MRI reconstruction by generative adversarial neural networks  
 - **Conference**: MIA(2020)  
 - **Imaging**: MRI  
@@ -347,7 +349,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks.git)
 
 ---
-## Paper 29: [MADGAN](https://link.springer.com/content/pdf/10.1186/s12859-020-03936-1.pdf)
+### Paper 27: [MADGAN](https://link.springer.com/content/pdf/10.1186/s12859-020-03936-1.pdf)
 - **Title**: MADGAN: unsupervised medical anomaly detection GAN using multiple adjacent brain MRI slice reconstruction  
 - **Conference**: BMC Bioinformatics(2021)  
 - **Imaging**: MRI  
@@ -359,7 +361,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 30: [AUTOMAP](https://www.nature.com/articles/s41598-021-87482-7.pdf)
+### Paper 28: [AUTOMAP](https://www.nature.com/articles/s41598-021-87482-7.pdf)
 - **Title**: Boosting the signal-to-noise of low-field MRI with deep learning image reconstruction  
 - **Conference**: Sci. report(2021)  
 - **Imaging**: MRI  
@@ -371,7 +373,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 31: [CINE](https://www.nature.com/articles/s41598-020-70551-8.pdf)
+### Paper 29: [CINE](https://www.nature.com/articles/s41598-020-70551-8.pdf)
 - **Title**: CINENet: deep learning-based 3D cardiac CINE MRI reconstruction with multi-coil complex-valued 4D spatio-temporal convolutions  
 - **Conference**: Sci.report(2020)  
 - **Imaging**: MRI  
@@ -383,7 +385,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 32: [Recon3DMLP](https://arxiv.org/pdf/2301.08868)
+### Paper 30: [Recon3DMLP](https://arxiv.org/pdf/2301.08868)
 - **Title**: Computationally Efficient 3D MRI Reconstruction with Adaptive MLP  
 - **Conference**: MICCAI(2023)  
 - **Imaging**: MRI  
@@ -395,7 +397,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 33: [Li et al.](https://www.sciencedirect.com/science/article/abs/pii/S0169260724001068)
+### Paper 31: [Li et al.](https://www.sciencedirect.com/science/article/abs/pii/S0169260724001068)
 - **Title**: 3D-MRI super-resolution reconstruction using multi-modality based on multi-resolution CNN  
 - **Conference**: CMPB(2024)  
 - **Imaging**: MRI  
@@ -407,7 +409,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 34: [DirectPet](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-7/issue-3/032503/DirectPET--full-size-neural-network-PET-reconstruction-from-sinogram/10.1117/1.JMI.7.3.032503.full)
+### Paper 32: [DirectPet](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-7/issue-3/032503/DirectPET--full-size-neural-network-PET-reconstruction-from-sinogram/10.1117/1.JMI.7.3.032503.full)
 - **Title**: DirectPET: full-size neural network PET reconstruction from sinogram data  
 - **Conference**: JMI(2020)  
 - **Imaging**: PET  
@@ -419,7 +421,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 35: [DLE](https://link.springer.com/content/pdf/10.1007/s00259-021-05478-x.pdf)
+### Paper 33: [DLE](https://link.springer.com/content/pdf/10.1007/s00259-021-05478-x.pdf)
 - **Title**: Image enhancement of whole-body oncology [18F]-FDG PET scans using deep neural networks to reduce noise  
 - **Conference**: EJNMMI(2022)  
 - **Imaging**: PET  
@@ -431,7 +433,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 36: [Deidda1 et al.](https://link.springer.com/content/pdf/10.1186/s40658-023-00549-4.pdf)
+### Paper 34: [Deidda1 et al.](https://link.springer.com/content/pdf/10.1186/s40658-023-00549-4.pdf)
 - **Title**: Triple modality image reconstruction of PET data using SPECT, PET, CT information increases lesion uptake in images of patients treated with radioembolization with 90 Y micro-spheres  
 - **Conference**: EJNMMI(2023)  
 - **Imaging**: CT PET SPECT  
@@ -443,7 +445,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/UCL/STIR.git)
 
 ---
-## Paper 37: [Hashimoto et al.](https://arxiv.org/pdf/2212.11844)
+### Paper 35: [Hashimoto et al.](https://arxiv.org/pdf/2212.11844)
 - **Title**: Fully 3D implementation of the end-to-end deep image prior-based PET image reconstruction using block iterative algorithm  
 - **Conference**: PMB(2023)  
 - **Imaging**: PET  
@@ -455,7 +457,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 38: [Gong et al. ](https://papers.miccai.org/miccai-2024/paper/3664_paper.pdf)
+### Paper 36: [Gong et al. ](https://papers.miccai.org/miccai-2024/paper/3664_paper.pdf)
 - **Title**: PET Image Denoising Based on 3D Denoising Diffusion Probabilistic Model: Evaluations on Total-Body Datasets  
 - **Conference**: MICCAI(2024)  
 - **Imaging**: PET  
@@ -467,7 +469,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 39: [Mostafapour et al.](https://www.hug.ch/sites/interhug/files/structures/pinlab/documents/jcde2022.pdf)
+### Paper 37: [Mostafapour et al.](https://www.hug.ch/sites/interhug/files/structures/pinlab/documents/jcde2022.pdf)
 - **Title**: Deep learning-guided attenuation correction in the image domain for myocardial perfusion SPECT imaging  
 - **Conference**: JCDE(2022)  
 - **Imaging**: SPECT  
@@ -479,7 +481,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 40: [TPL-CNN](https://link.springer.com/content/pdf/10.1186/s40658-024-00687-3.pdf)
+### Paper 38: [TPL-CNN](https://link.springer.com/content/pdf/10.1186/s40658-024-00687-3.pdf)
 - **Title**: SPECT-MPI iterative denoising during the reconstruction process using a two-phase learned convolutional neural network  
 - **Conference**: EJNMMI(2024)  
 - **Imaging**: SPECT  
@@ -491,7 +493,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/FYousefzadeh/in-house-simple-OSEM2D-code.git)
 
 ---
-## Paper 41: [Li et al.](https://arxiv.org/pdf/2312.15676)
+### Paper 39: [Li et al.](https://arxiv.org/pdf/2312.15676)
 - **Title**: Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation  
 - **Conference**: arxiv(2024)  
 - **Imaging**: CT  
@@ -503,7 +505,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 42: [DIF-Gaussian](https://arxiv.org/pdf/2407.01090)
+### Paper 40: [DIF-Gaussian](https://arxiv.org/pdf/2407.01090)
 - **Title**: Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction  
 - **Conference**: MICCAI(2024)  
 - **Imaging**: CT  
@@ -515,7 +517,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/xmed-lab/DIF-Gaussian)
 
 ---
-## Paper 43: [R²-Gaussian](https://arxiv.org/pdf/2405.20693)
+### Paper 41: [R²-Gaussian](https://arxiv.org/pdf/2405.20693)
 - **Title**: R2-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction  
 - **Conference**: NeurIPS(2024)  
 - **Imaging**: CT  
@@ -527,7 +529,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/Ruyi-Zha/r2_gaussian.git)
 
 ---
-## Paper 44: [GaSpCT](https://arxiv.org/pdf/2404.03126)
+### Paper 42: [GaSpCT](https://arxiv.org/pdf/2404.03126)
 - **Title**: GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis  
 - **Conference**: MICCAI(2024)  
 - **Imaging**: CT  
@@ -539,7 +541,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 45: [DDGS-CT](https://proceedings.neurips.cc/paper_files/paper/2024/file/456ce0476c9b4689a74918b851cecd5a-Paper-Conference.pdf)
+### Paper 43: [DDGS-CT](https://proceedings.neurips.cc/paper_files/paper/2024/file/456ce0476c9b4689a74918b851cecd5a-Paper-Conference.pdf)
 - **Title**: DDGS-CT: Direction-Disentangled Gaussian Splatting  for Realistic Volume Rendering  
 - **Conference**: NeurIPS(2024)  
 - **Imaging**: CT  
@@ -551,7 +553,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 46: [X-Gaussain](https://arxiv.org/pdf/2403.04116)
+### Paper 44: [X-Gaussain](https://arxiv.org/pdf/2403.04116)
 - **Title**: Radiative Gaussian Splatting for Efficient X-Ray Novel View Synthesis  
 - **Conference**: ECCV(2024)  
 - **Imaging**: CT  
@@ -563,7 +565,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/caiyuanhao1998/X-Gaussian)
 
 ---
-## Paper 47: [GBIR](https://openreview.net/pdf?id=AkCWbxntll)
+### Paper 45: [GBIR](https://openreview.net/pdf?id=AkCWbxntll)
 - **Title**: GBIR: A Novel Gaussian Iterative Method for Medical Image Reconstruction  
 - **Conference**: ICLR(2025)  
 - **Imaging**: PET  
@@ -575,7 +577,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 48: [PINER](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)
+### Paper 46: [PINER](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)
 - **Title**: PINER: Prior-informed Implicit Neural Representation Learning for Test-time  Adaptation in Sparse-view CT Reconstruction  
 - **Conference**: WACV (2023)  
 - **Imaging**: CT  
@@ -587,7 +589,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/efzero/PINER)
 
 ---
-## Paper 49: [GONG et al.](https://www.researchgate.net/profile/Kuang-Gong/publication/352643894_Direct_Reconstruction_of_Linear_Parametric_Images_from_Dynamic_PET_Using_Nonlocal_Deep_Image_Prior/links/60d4900f299bf1fe469b2deb/Direct-Reconstruction-of-Linear-Parametric-Images-from-Dynamic-PET-Using-Nonlocal-Deep-Image-Prior.pdf)
+### Paper 47: [GONG et al.](https://www.researchgate.net/profile/Kuang-Gong/publication/352643894_Direct_Reconstruction_of_Linear_Parametric_Images_from_Dynamic_PET_Using_Nonlocal_Deep_Image_Prior/links/60d4900f299bf1fe469b2deb/Direct-Reconstruction-of-Linear-Parametric-Images-from-Dynamic-PET-Using-Nonlocal-Deep-Image-Prior.pdf)
 - **Title**: Direct Reconstruction of Linear Parametric Images From Dynamic PET Using Nonlocal Deep Image Prior  
 - **Conference**: TMI(2022)  
 - **Imaging**: PET  
@@ -599,7 +601,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 50: [Makkar et al.](https://www.iccr2024.org/papers/526223.pdf)
+### Paper 48: [Makkar et al.](https://www.iccr2024.org/papers/526223.pdf)
 - **Title**: Partial-ring PET Image Correction using Implicit Neural Representation Learning  
 - **Conference**: ICCR(2024)  
 - **Imaging**: PET  
@@ -611,7 +613,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 51: [NeRP](https://med.stanford.edu/content/dam/sm/dbds/XingSR1.pdf)
+### Paper 49: [NeRP](https://med.stanford.edu/content/dam/sm/dbds/XingSR1.pdf)
 - **Title**: NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction  
 - **Conference**: TNNLS(2022)  
 - **Imaging**: CT MRI  
@@ -623,7 +625,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗]( https://github.com/liyues/NeRP)
 
 ---
-## Paper 52: [Liu et al.](https://www.pure.ed.ac.uk/ws/portalfiles/portal/482363230/LiuEtalIEEETMI2024Geometry-awareAttenuationLearning.pdf)
+### Paper 50: [Liu et al.](https://www.pure.ed.ac.uk/ws/portalfiles/portal/482363230/LiuEtalIEEETMI2024Geometry-awareAttenuationLearning.pdf)
 - **Title**: Geometry-Aware Attenuation Learning for Sparse-View CBCT Reconstruction  
 - **Conference**: TMI(2025)  
 - **Imaging**: CT MRI  
@@ -635,7 +637,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 53: [Ultra-NeRF](https://proceedings.mlr.press/v227/wysocki24a/wysocki24a.pdf)
+### Paper 51: [Ultra-NeRF](https://proceedings.mlr.press/v227/wysocki24a/wysocki24a.pdf)
 - **Title**: Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging  
 - **Conference**: MIDC（2024）  
 - **Imaging**: 3D US  
@@ -647,7 +649,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 54: [UlRe-NeRF](https://arxiv.org/pdf/2408.00860)
+### Paper 52: [UlRe-NeRF](https://arxiv.org/pdf/2408.00860)
 - **Title**: UlRe-NeRF: 3D Ultrasound Imaging through  Neural Rendering with Ultrasound Reflection  Direction Parameterization  
 - **Conference**: arXiv(2024)  
 - **Imaging**: 3D US  
@@ -659,7 +661,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 55: [NeRF-US](https://arxiv.org/pdf/2408.10258)
+### Paper 53: [NeRF-US](https://arxiv.org/pdf/2408.10258)
 - **Title**: NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild  
 - **Conference**: arXiv(2024)  
 - **Imaging**: 3D US  
@@ -671,7 +673,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](rishitdagli.com/nerf-us/)
 
 ---
-## Paper 56: [ImplicitVol](https://arxiv.org/pdf/2109.12108)
+### Paper 54: [ImplicitVol](https://arxiv.org/pdf/2109.12108)
 - **Title**: ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation  
 - **Conference**: arXiv(2021)  
 - **Imaging**: 3D US  
@@ -683,7 +685,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 57: [MedNeRF](https://arxiv.org/pdf/2202.01020)
+### Paper 55: [MedNeRF](https://arxiv.org/pdf/2202.01020)
 - **Title**: MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray  
 - **Conference**: EMBC(2022)  
 - **Imaging**: CT  
@@ -695,7 +697,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/abrilcf/mednerf)
 
 ---
-## Paper 58: [NAF](https://arxiv.org/pdf/2209.14540)
+### Paper 56: [NAF](https://arxiv.org/pdf/2209.14540)
 - **Title**: Neural Attenuation Fields for Sparse-View  CBCT Reconstruction  
 - **Conference**: MICCAI (2022)  
 - **Imaging**: CT  
@@ -707,7 +709,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/Ruyi-Zha/naf_cbct)
 
 ---
-## Paper 59: [DIF-Net](https://arxiv.org/pdf/2303.06681)
+### Paper 57: [DIF-Net](https://arxiv.org/pdf/2303.06681)
 - **Title**: Learning Deep Intensity Field for Extremely  Sparse-View CBCT Reconstruction  
 - **Conference**: MICCAI (2023)  
 - **Imaging**: CT  
@@ -719,7 +721,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/xmed-lab/DIF-Net)
 
 ---
-## Paper 60: [ACnerf](https://iopscience.iop.org/article/10.1088/1361-6560/ad1d6c/meta)
+### Paper 58: [ACnerf](https://iopscience.iop.org/article/10.1088/1361-6560/ad1d6c/meta)
 - **Title**: ACnerf: enhancement of neural radiance field by alignment and correction of pose to reconstruct new views from a single x-ray*  
 - **Conference**: PMB(2024)  
 - **Imaging**: CT  
@@ -731,7 +733,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 61: [UMedNeRF](https://arxiv.org/pdf/2311.05836)
+### Paper 59: [UMedNeRF](https://arxiv.org/pdf/2311.05836)
 - **Title**: UMedNeRF: Uncertainty-Aware Single View Volumetric Rendering For Medical Neural Radiance Fields  
 - **Conference**: ISBI(2024)  
 - **Imaging**: CT  
@@ -743,7 +745,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 62: [VolumeNeRF](https://papers.miccai.org/miccai-2024/paper/3061_paper.pdf)
+### Paper 60: [VolumeNeRF](https://papers.miccai.org/miccai-2024/paper/3061_paper.pdf)
 - **Title**: VolumeNeRF: CT Volume Reconstruction from a Single Projection View  
 - **Conference**: MICCAI (2024)  
 - **Imaging**: CT  
@@ -755,7 +757,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://www.github.com/Aurora132/VolumeNeRF)
 
 ---
-## Paper 63: [SAX-NeRF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.pdf)
+### Paper 61: [SAX-NeRF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.pdf)
 - **Title**: Structure-Aware Sparse-View X-ray 3D Reconstruction  
 - **Conference**: CVPR(2024)  
 - **Imaging**: CT  
@@ -767,7 +769,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/caiyuanhao1998/SAX-NeRF)
 
 ---
-## Paper 64: [extended-MedNeRF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1.full.pdf)
+### Paper 62: [extended-MedNeRF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1.full.pdf)
 - **Title**: 3D reconstructions of brain from MRI scans using neural radiance fields  
 - **Conference**: AISC (2023)  
 - **Imaging**: MRI  
@@ -779,7 +781,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: ❌
 
 ---
-## Paper 65: [Feng et al.](https://arxiv.org/pdf/2301.00127)
+### Paper 63: [Feng et al.](https://arxiv.org/pdf/2301.00127)
 - **Title**: Spatiotemporal implicit neural representation for unsupervised dynamic MRI reconstruction  
 - **Conference**: TMI(2025)  
 - **Imaging**: CT MRI  
@@ -791,7 +793,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗]( https://github.com/AMRILab/INR_for_DynamicMRI)
 
 ---
-## Paper 66: [NeSVoR](https://www.researchgate.net/profile/Junshen-Xu/publication/365043351_NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/links/636ab7c5431b1f53007e10d9/NeSVoR-Implicit-Neural-Representation-for-Slice-to-Volume-Reconstruction-in-MRI.pdf)
+### Paper 64: [NeSVoR](https://www.researchgate.net/profile/Junshen-Xu/publication/365043351_NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/links/636ab7c5431b1f53007e10d9/NeSVoR-Implicit-Neural-Representation-for-Slice-to-Volume-Reconstruction-in-MRI.pdf)
 - **Title**: NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI  
 - **Conference**: TMI (2023)  
 - **Imaging**: CT MRI  
@@ -803,7 +805,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](https://github.com/daviddmc/NeSVoR)
 
 ---
-## Paper 67: [CuNeRF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.pdf)
+### Paper 65: [CuNeRF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.pdf)
 - **Title**: CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution  
 - **Conference**: ICCV(2023)  
 - **Imaging**: CT MRI  
@@ -815,7 +817,7 @@ The demand for high-quality medical imaging in clinical practice and assisted di
 - **Code**: [🔗](NarcissusEx.github.io/CuNeRF)
 
 ---
-## Paper 68: [RAO et al.](https://ieeexplore.ieee.org/abstract/document/10004486)
+### Paper 66: [RAO et al.](https://ieeexplore.ieee.org/abstract/document/10004486)
 - **Title**: An Energy-Efficient Accelerator for Medical Image  Reconstruction From Implicit Neural Representation  
 - **Conference**: TCAS-I(2022)  
 - **Imaging**: CT MRI  
