@@ -187,7 +187,7 @@ The literature review can be found in Table below.
   A 3D PET reconstruction framework using score-based generative models with a novel PET-DDS sampling method to improve image quality and robustness.  
 - **Abstract**:  
   <details><summary>Click</summary>Score-based generative models have demonstrated highly promising results for medical image reconstruction tasks in magnetic resonance imaging or computed tomography. However, their application to Positron Emission Tomography (PET) is still largely unexplored. PET image reconstruction involves a variety of challenges, including Poisson noise with high variance and a wide dynamic range. To address these challenges, we propose several PET-specific adaptations of score-based generative models. The proposed framework is developed for both 2D and 3D PET. In addition, we provide an extension to guided reconstruction using magnetic resonance images. We validate the approach through extensive 2D and 3D in-silico experiments with a model trained on patient-realistic data without lesions, and evaluate on data without lesions as well as out-of-distribution data with lesions. This demonstrates the proposed method's robustness and significant potential for improved PET reconstruction.</details>  
-- **Code**: ❌
+- **Code**:  [🔗](https://github.com/Imraj-Singh/Score-Based-Generative-Models-for-PET-Image-Reconstruction.git)
 
 ---
 ### Paper 12: [MambaMIR](https://www.sciencedirect.com/science/article/pii/S1361841524002597)
