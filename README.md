@@ -625,7 +625,7 @@ The literature review can be found in Table below.
 ### Paper 50: [Liu et al.](https://www.pure.ed.ac.uk/ws/portalfiles/portal/482363230/LiuEtalIEEETMI2024Geometry-awareAttenuationLearning.pdf)
 - **Title**: Geometry-Aware Attenuation Learning for Sparse-View CBCT Reconstruction  
 - **Pub**: TMI(2025)  
-- **Imaging**: CT MRI  
+- **Imaging**: CT
 - **Based on**: IPE  
 - **Main Contribution**:  
   A geometry-aware encoder-decoder framework for sparse use-view CBCT reconstruction by leveraging the prior knowledge and back-projecting multiview 2D features into 3D space.  
