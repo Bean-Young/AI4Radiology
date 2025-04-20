@@ -91,7 +91,7 @@ The literature review can be found in Table below.
   Utilize the long-range dependency modeling capability of the Transformer to restore informative sinograms, and subsequently reconstruct the CT image using both the enhanced sinograms and the original sinograms.  
 - **Abstract**:  
   <details><summary>Click</summary>While Computed Tomography (CT) is necessary for clinical diagnosis, ionizing radiation in the imaging process induces irreversible injury, thereby driving researchers to study sparse-view CT reconstruction. Iterative models are proposed to alleviate the appeared artifacts in sparse-view CT images, but their computational cost is expensive. Deep-learning-based methods have gained prevalence due to the excellent reconstruction performances and computation efficiency. However, these methods ignore the mismatch between the CNN’s local feature extraction capability and the sinogram’s global characteristics. To overcome the problem, we propose Dual-Domain Transformer (DuDoTrans) to simultaneously restore informative sinograms via the long-range dependency modeling capability of Transformer and reconstruct CT image with both the enhanced and raw sinograms. With such a novel design, DuDoTrans even with fewer involved parameters is more effective and generalizes better than competing methods, which is confirmed by reconstruction performances on the NIH-AAPM and COVID-19 datasets. Finally, experiments also demonstrate its robustness to noise.</details>  
-- **Code**: ❌
+- **Code**: [🔗](https://github.com/mars11121/DuDoTrans.git)
 
 ---
 ### Paper 04: [CoreDiff](https://arxiv.org/pdf/2304.01814)
