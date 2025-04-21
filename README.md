@@ -492,7 +492,7 @@ The literature review can be found in Table below.
 ---
 ### Paper 39: [Li et al.](https://arxiv.org/pdf/2312.15676)
 - **Title**: Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation  
-- **Pub**: arxiv(2024)  
+- **Pub**: arxiv(2023)  
 - **Imaging**: CT  
 - **Based on**: GR  
 - **Main Contribution**:  
