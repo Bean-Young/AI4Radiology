@@ -565,7 +565,7 @@ The literature review can be found in Table below.
 ### Paper 45: [GBIR](https://openreview.net/pdf?id=AkCWbxntll)
 - **Title**: GBIR: A Novel Gaussian Iterative Method for Medical Image Reconstruction  
 - **Pub**: ICLR(2025)  
-- **Imaging**: PET  
+- **Imaging**: CT MRI
 - **Based on**: GR  
 - **Main Contribution**:  
   A Gaussian-Based Iterative Reconstruction framework that leverages learnable Gaussians for personalized CT and MRI reconstruction from undersampled data, overcoming deep learning limitations and validated on the MORE  
