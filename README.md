@@ -490,15 +490,15 @@ The literature review can be found in Table below.
 - **Code**: [🔗](https://github.com/FYousefzadeh/in-house-simple-OSEM2D-code.git)
 
 ---
-### Paper 39: [Li et al.](https://arxiv.org/pdf/2312.15676)
-- **Title**: Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation  
+### Paper 39: [3DGR-CT]([https://arxiv.org/pdf/2312.15676])
+- **Title**: 3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation
 - **Pub**: arxiv(2023)  
 - **Imaging**: CT  
 - **Based on**: GR  
 - **Main Contribution**:  
   A self-supervised 3D Gaussian method using FBP priors and adaptive updates for efficient sparse-view CT reconstruction.  
 - **Abstract**:  
-  <details><summary>Click</summary>Sparse-view CT is a promising strategy for reducing the radiation dose of traditional CT scans, but reconstructing high-quality images from incomplete and noisy data is challenging. Recently, 3D Gaussian has been applied to model complex natural scenes, demonstrating fast convergence and better rendering of novel views compared to implicit neural representations (INRs). Taking inspiration from the successful application of 3D Gaussians in natural scene modeling and novel view synthesis, we investigate their potential for sparse-view CT reconstruction. We leverage prior information from the filtered-backprojection reconstructed image to initialize the Gaussians; and update their parameters via comparing difference in the projection space. Performance is further enhanced by adaptive density control. Compared to INRs, 3D Gaussians benefit more from prior information to explicitly bypass learning in void spaces and allocate the capacity efficiently, accelerating convergence. 3D Gaussians also efficiently learn high-frequency details. Trained in a self-supervised manner, 3D Gaussians avoid the need for large-scale paired data. Our experiments on the AAPM-Mayo dataset demonstrate that 3D Gaussians can provide superior performance compared to INR-based methods. This work is in progress, and the code will be publicly available.</detais>  
+  <details><summary>Click</summary>Sparse-view computed tomography (CT) reduces radiation exposure by acquiring fewer projections, making it a valuable tool in clinical scenarios where low-dose radiation is essential. However, this often results in increased noise and artifacts due to limited data. In this paper we propose a novel 3D Gaussian representation (3DGR) based method for sparse-view CT reconstruction. Inspired by recent success in novel view synthesis driven by 3D Gaussian splatting, we leverage the efficiency and expressiveness of 3D Gaussian representation as an alternative to implicit neural representation. To unleash the potential of 3DGR for CT imaging scenario, we propose two key innovations: (i) FBP-image-guided Guassian initialization and (ii) efficient integration with a differentiable CT projector. Extensive experiments and ablations on diverse datasets demonstrate the proposed 3DGR-CT consistently outperforms state-of-the-art counterpart methods, achieving higher reconstruction accuracy with faster convergence. Furthermore, we showcase the potential of 3DGR-CT for real-time physical simulation, which holds important clinical applications while challenging for implicit neural representations.</detais>  
 - **Code**: ❌
 
 ---
