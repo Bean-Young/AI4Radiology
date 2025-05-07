@@ -18,36 +18,33 @@ Unlike other medical imaging tasks, reconstruction often requires subjects to un
 |----:|--------|------|---------------------------------|-----------|
 | 1 | VerSE | CT |A multi-center, multi-detector CT spine dataset for vertebral annotation and segmentation.| [🔗](https://paperswithcode.com/dataset/verse-1) |
 |2 | LIDC-IDRI | CT |  A low-dose lung CT dataset for lung nodule classification, segmentation, and detection. | [🔗](https://paperswithcode.com/dataset/lidc-idri) |
-|3 | COVID-CT-Dataset | CT | Contains COVID-19 CT images from patients and non-COVID-19 CTs | [🔗](https://paperswithcode.com/dataset/covid-ct) |
+|3 | COVID-CT-Dataset | CT |Dataset that contains COVID-19 CT images and non-COVID-19 CTs.| [🔗](https://paperswithcode.com/dataset/covid-ct) |
 |4|Richard et al|CT|volumetric reconstructions of the chest cavity at 10 breathing phases |[🔗]( http://www.dir-lab.com) |
-|5 | KiTS19 | CT | dataset of segmented CT imaging and treatment outcomes for 300 patients treated with partial or radical nephrectomy| [🔗](https://paperswithcode.com/dataset/kits19) |
-|6 |LDCT | CT |contrast-enhanced abdominal CT patient scans, each acquired in the portal venous phase using a Siemens SOMATOM Flash scanner.  | [🔗](https://doi.org/10.7937/9npb-2637) |
-|7 | CTSpine1K| CT|  Dataset curated from mutiple sources for spinal vertebrae segmentation and 3D spine reconstruction | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
+|5 | KiTS19 | CT | Dataset of segmented CT imaging for automatic semantic segmentation of renal tumors and surrounding anatomy.| [🔗](https://paperswithcode.com/dataset/kits19) |
+|6 |LDCT | CT |CT projection data, including those acquired at routine clinical doses and simulated lower doses. | [🔗](https://doi.org/10.7937/9npb-2637) |
+|7 | CTSpine1K| CT|  Dataset curated from mutiple sources for spinal vertebrae segmentation and 3D spine reconstruction. | [🔗](https://paperswithcode.com/dataset/ctspine1k) |
 |8|MIDRC-RICORD-1B|CT|De-identified dataset from  COVID negative patients|[🔗](https://www.cancerimagingarchive.net/collection/midrc-ricord-1b/) |
-|9|Corona-Figueroa et al.|CT|Digital Reconstructed Radiographs (DRRs) from chest and knee CT scans.|[🔗](https://github.com/abrilcf/mednerf) |
-|10 |BraTS| MRI|Brain MRI scans from patients with gliomas, including four modalities: T1-weighted (T1), contrast-enhanced T1-weighted (T1Gd), T2-weighted (T2), and T2-FLAIR |[🔗](http://braintumorsegmentation.org/)|
-|11  |IXI|MRI|T1, T2 and PD-weighted images, Diffusion-weighted and MRA images from normal, healthy subjects.|[🔗](https://brain-development.org/ixi-dataset/)|
+|9|Corona-Figueroa et al.|CT|Digital Reconstructed Radiographs from chest and knee CT scans|[🔗](https://github.com/abrilcf/mednerf) |
+|10 |BraTS| MRI|Brain MRI scans from patients with gliomas, including four modalities: T1-weighted , contrast-enhanced T1-weighted , T2-weighted , and T2-FLAIR  |[🔗](http://braintumorsegmentation.org/)|
+|11  |IXI|MRI|T1, T2 and PD-weighted images,  MRA  and Diffusion-weighted images from normal, healthy subjects|[🔗](https://brain-development.org/ixi-dataset/)|
 |12   |ADNI| MRI|A collection of longitudinal clinical, imaging, genetic, and other biomarker data.|[🔗](https://adni.loni.usc.edu/data-samples/adni-data/)|
-|13   |OASIS-1| MRI|Cross-sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-1/)|
-|14  | FastMRI| MRI|k-space and image data of knee examinations for accelerated MR image reconstruction using machine learning|[🔗]( https://fastmri.med.nyu.edu/)|
-|15   |HCP| MRI|High-level extensively processed data ; Group ICA-based parcellation + timeseries + netmats datasets.|[🔗](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)|
-|16 |Landman et al|MRI|Multimodal MRI dataset.|[🔗](http://www.nitrc.org/projects/multimodal/) | 
-|17|FeTA|MRI|T2-weighted fetal brain reconstructions of both normal and pathological brains across various gestational ages. |[🔗](https://www.synapse.org/Synapse:syn25649159/wiki/610007) |
-|18| Xu et al|MRI|volumetric MRI time series at a gestational age ranging from 25 to 35 weeks.|[🔗](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) |
-|19| dHCP| MRI|Anatomical, diffusion, and functional metadata, including brain segmentation and cortical surface.|[🔗](https://paperswithcode.com/dataset/dhcp)|
-|20   |MSD| MRI|multiparametric magnetic resonance imaging (MRI) scans from patients diagnosed with either glioblastoma or lower-grade glioma|[🔗](http://medicaldecathlon.com/)|
-|21   |DCE-MRI| MRI|DCE-MR images for benign and malignant breast tumor cases.|[🔗](https://github.com/smallboy-code/Breast-cancer-dataset?tab=readme-ov-file)|
-| 22 |  OCMR|MRI|Multi-coil k-space data and undersampled cardiac cine series.  |[🔗](https://github.com/MRIOSU/OCMR)
-|23   |SKMTEA| MRI|A dataset that pairs raw quantitative knee MRI (qMRI) data, image data, and dense annotations of tissue and pathology for end-to-end exploration and evaluation of the MR imaging pipeline.|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
-|24|Aubert-Broche et al.|MRI|T1, T2, and proton density (PD)-weighted magnetic resonance imaging (MRI) scans from each subject.|[🔗](https://ieeexplore.ieee.org/abstract/document/1717639?signout=success) |
-|25|CMRxRecon2024|MRI|Dataset include multi-contrast k-space data, consist of cardiac cine, T1/T2mapping, tagging, phase-contrast (i.e., flow2d), and dark-blood imaging. It also includes imaging of different anatomical views like long-axis (2-chamber, 3-chamber, and 4-chamber), short-axis (SAX), left ventricul outflow tract (LVOT), and aorta (transversal and sagittal views). |[🔗](https://www.synapse.org/#!Synapse:syn57407073/datasets/)|
-|26|UDPET|PET|The dataset contains whole-body 18F-FDG PET imaging |[🔗](https://udpet-challenge.github.io/)|
-|27 |Wysocki et al.| US|A dataset of synthetic liver ultrasound images and tracked spine phantom scans.|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
-|28 |MITEA| US|The largest publicly available 3DE dataset to date|[🔗](https://www.cardiacatlas.org/mitea/)|
-|29| Papageorghiou et al.|US|A set of international standards for fetal growth to enhance the accuracy of diagnosing fetal growth restriction and improve clinical management|[🔗](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61490-2/fulltext?mod=article_inline)|
-|30  |MMWHS| CT MRI|Three-dimensional CT and MRI images covering the entire heart for cardiac segmentation.|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
-|31  |OASIS-3| MRI PET|neuroimaging and processed imaging data in participants with normal aging and Alzheimer's Disease|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-3/)|
-|32 | μ-RegPro |MR US|Dataset for assisting prostate biopsy and focal therapy, surgical and interventional tasks |[🔗](https://muregpro.github.io/data.html)
+|13   |OASIS-1| MRI|MRI Data from Young, Middle-Aged, Nondemented, and Demented Older Adults in a Cross-Sectional Study.|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-1/)|
+|14  | FastMRI| MRI|Dataset that include K-space and image data of knee for accelerated MR image reconstruction using machine learning. |[🔗]( https://fastmri.med.nyu.edu/)|
+|15   |HCP| MRI|High-level extensively processed datasets featuring group average structural and tfMRI data, functional connectivity, and Group ICA-based parcellation, timeseries, and netmats datasets.|[🔗](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)|
+|16 |Landman et al|MRI|Dataset featuring MPRAGE, FLAIR, DTI, resting state fMRI, B0 and B1 field maps, ASL, VASO, quantitative T1 mapping, quantitative T2 mapping, and magnetization transfer imaging.|[🔗](http://www.nitrc.org/projects/multimodal/) | 
+|17| dHCP| MRI|Anatomical, diffusion, and functional metadata, including brain segmentation and cortical surface.|[🔗](https://paperswithcode.com/dataset/dhcp)|
+|18  |MSD| MRI|Multiparametric MRI scans from glioblastoma and lower-grade glioma.|[🔗](http://medicaldecathlon.com/)|
+|19|BreastDM||DCE-MR images for benign and malignant breast tumor cases.|[🔗]()|
+| 20 |  OCMR|MRI|Multi-coil k-space data and undersampled cardiac cine series.  |[🔗](https://github.com/MRIOSU/OCMR)
+|21 |SKMTEA| MRI|A dataset that integrates raw quantitative knee MRI data, corresponding image data, and detailed annotations of tissue and pathology, facilitating an end-to-end investigation and assessment of the MRI imaging process.|[🔗](https://aimi.stanford.edu/datasets/skm-tea-knee-mri)|
+|22|CMRxRecon2024|MRI|Dataset that includes multi-contrast k-space data for multi-contrast CMR reconstruction and random sampling CMR reconstruction |[🔗](https://www.synapse.org/#!Synapse:syn57407073/datasets/)|
+|23|UDPET|PET|A dataset that includes  18F-FDG PET imaging  for addressing the challenges of ultra-low dose imaging in whole-body PET imaging.|[🔗](https://udpet-challenge.github.io/)|
+|24 |Wysocki et al.| US|A dataset of synthetic liver ultrasound images and tracked spine phantom scans.|[🔗](https://github.com/magdalena-wysocki/ultra-nerf)|
+|25|MITEA| US|The dataset is designed for the quantification of LV systolic function and mass using annotated 3D echocardiography data.|[🔗](https://www.cardiacatlas.org/mitea/)|
+|26| Papageorghiou et al.|US|A set of international standards for fetal growth to enhance the accuracy of diagnosing fetal growth restriction and improve clinical management |[🔗](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61490-2/fulltext?mod=article_inline)|
+|27  |MMWHS| CT MRI|Three-dimensional CT and MRI images covering the entire heart for cardiac segmentation|[🔗](https://www.kaggle.com/datasets/panhuiyang/mmwhs-datasets)|
+|28  |OASIS-3| MRI PET|Neuroimaging and processed imaging data from individuals experiencing normal aging and those with Alzheimer's Disease.|[🔗](https://sites.wustl.edu/oasisbrains/home/oasis-3/)|
+|29| μ-RegPro |MR US|Dataset for assisting prostate biopsy and focal therapy, surgical and interventional tasks. |[🔗](https://muregpro.github.io/data.html)
 
 ## ***Literature***
 
