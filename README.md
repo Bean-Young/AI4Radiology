@@ -551,7 +551,7 @@ The literature review can be found in Table below.
 - **Code**: [🔗](https://github.com/caiyuanhao1998/X-Gaussian)
 
 ---
-### Paper 42: [3DGR-CT]([https://arxiv.org/pdf/2312.15676])
+### Paper 42: [3DGR-CT](https://arxiv.org/abs/2312.15676)
 - **Title**: 3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation
 - **Pub**: arxiv(2023)  
 - **Imaging**: CT  
@@ -828,6 +828,7 @@ The literature review can be found in Table below.
 - **Code**: [🔗](NarcissusEx.github.io/CuNeRF)
 
 ## ***Challenges and Opportunities***
+
 
 
 ## ***Citations***
