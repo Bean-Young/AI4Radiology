@@ -560,7 +560,7 @@ The literature review can be found in Table below.
   A self-supervised 3D Gaussian method using FBP priors and adaptive updates for efficient sparse-view CT reconstruction.  
 - **Abstract**:  
   <details><summary>Click</summary>Sparse-view computed tomography (CT) reduces radiation exposure by acquiring fewer projections, making it a valuable tool in clinical scenarios where low-dose radiation is essential. However, this often results in increased noise and artifacts due to limited data. In this paper we propose a novel 3D Gaussian representation (3DGR) based method for sparse-view CT reconstruction. Inspired by recent success in novel view synthesis driven by 3D Gaussian splatting, we leverage the efficiency and expressiveness of 3D Gaussian representation as an alternative to implicit neural representation. To unleash the potential of 3DGR for CT imaging scenario, we propose two key innovations: (i) FBP-image-guided Guassian initialization and (ii) efficient integration with a differentiable CT projector. Extensive experiments and ablations on diverse datasets demonstrate the proposed 3DGR-CT consistently outperforms state-of-the-art counterpart methods, achieving higher reconstruction accuracy with faster convergence. Furthermore, we showcase the potential of 3DGR-CT for real-time physical simulation, which holds important clinical applications while challenging for implicit neural representations.</detais>  
-- **Code**: ❌
+- **Code**: [🔗](https://github.com/windrise/3DGR-CAR.git)
 
 ---
 ### Paper 43: [GBIR](https://openreview.net/pdf?id=AkCWbxntll)
