@@ -1,6 +1,6 @@
 # AI4Radiology
 
-This project is created by ***Yuezhe Yang*** for paper "**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**" ([Paper Link](https://arxiv.org/pdf/2504.11349)). 
+This project is created by [***Yuezhe Yang***](https://bean-young.github.io) for paper "**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**" ([Paper Link](https://arxiv.org/pdf/2504.11349)). 
 
 ### [Project Page](https://.github.io)
 
