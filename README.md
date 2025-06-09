@@ -560,7 +560,7 @@ The literature review can be found in Table below.
 ---
 ### Paper 43: [GBIR](https://openreview.net/pdf?id=AkCWbxntll)
 - **Title**: GBIR: A Novel Gaussian Iterative Method for Medical Image Reconstruction  
-- **Pub**: ICLR(2025)  
+- **Pub**: None  
 - **Imaging**: CT MRI
 - **Based on**: GR  
 - **Main Contribution**:  
@@ -796,7 +796,6 @@ The literature review can be found in Table below.
 - **Abstract**:  
   <details><summary>Click</summary>This work presents an energy-efficient accelerator for medical image reconstruction from implicit neural representation (INR). The accelerator implements an INR-based algorithm to deliver high-quality medical image reconstruction with arbitrary resolution from a compact implicit format. In particular, we propose a dedicated hardware architecture based on an optimized computation flow for the INR-based reconstruction algorithm, which co-designs data reuse and computation load. The proposed architecture takes in the coordinate of the intersection of three scans and outputs all the voxel intensities, minimizing the data movement between on-chip and off-chip. To validate the proposed accelerator, we build a proof-of-concept prototype demonstration system using field programmable gate array (FPGA). We also map our design to 40nm CMOS technology to measure the performance of the proposed accelerator. The implementation results show that, running at 400MHz, the proposed accelerator is capable of processing medical images with 256×256 resolution in real-time at 26.3 frames per second (FPS), with a power consumption of only 795 mW. Comparison results show that the performance, as well as the energy efficiency of the proposed accelerator, outperforms the central processing unit (CPU)-based and graphic processing unit (GPU)-based implementations. </details> 
 - **Code**: ❌
----
 
 ---
 ### Paper 63: [NeSVoR](https://www.researchgate.net/profile/Junshen-Xu/publication/365043351_NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/links/636ab7c5431b1f53007e10d9/NeSVoR-Implicit-Neural-Representation-for-Slice-to-Volume-Reconstruction-in-MRI.pdf)
