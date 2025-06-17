@@ -873,12 +873,9 @@ The literature review can be found in Table below.
 | 4 | Deep unfolding network with spatial alignment for multi-modal mri reconstruction | MIA(2025) | <details><summary>Click</summary>Multi-modal Magnetic Resonance Imaging (MRI) offers complementary diagnostic information, but some modalities are limited by the long scanning time. To accelerate the whole acquisition process, MRI reconstruction of one modality from highly under-sampled k-space data with another fully-sampled reference modality is an efficient solution. However, the misalignment between modalities, which is common in clinic practice, can negatively affect reconstruction quality. Existing deep learning-based methods that account for inter-modality misalignment perform better, but still share two main common limitations: (1) The spatial alignment task is not adaptively integrated with the reconstruction process, resulting in insufficient complementarity between the two tasks; (2) the entire framework has weak interpretability. In this paper, we construct a novel Deep Unfolding Network with Spatial Alignment, termed DUN-SA, to appropriately embed the spatial alignment task into the reconstruction process. Concretely, we derive a novel joint alignment-reconstruction model with a specially designed aligned cross-modal prior term. By relaxing the model into cross-modal spatial alignment and multi-modal reconstruction tasks, we propose an effective algorithm to solve this model alternatively. Then, we unfold the iterative stages of the proposed algorithm and design corresponding network modules to build DUN-SA with interpretability. Through end-to-end training, we effectively compensate for spatial misalignment using only reconstruction loss, and utilize the progressively aligned reference modality to provide inter-modality prior to improve the reconstruction of the target modality. Comprehensive experiments on four real datasets demonstrate that our method exhibits superior reconstruction performance compared to state-of-the-art methods.</details> |  ❌
 ## ***Citations***
 ``````bibtex
-@misc{yang2025explicitimplicitrepresentationsaibased,
-      title={Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review}, 
-      author={Yuezhe Yang and Boyu Yang and Yaqian Wang and Yang He and Xingbo Dong and Zhe Jin},
-      year={2025},
-      eprint={2504.11349},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.11349}, 
+@article{yang2025explicit,
+  title={Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review},
+  author={Yang, Yuezhe and Yang, Boyu and Wang, Yaqian and He, Yang and Dong, Xingbo and Jin, Zhe},
+  journal={arXiv preprint arXiv:2504.11349},
+  year={2025}
 }
