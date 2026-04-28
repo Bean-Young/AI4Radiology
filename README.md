@@ -14,8 +14,8 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 - [Highlights](#highlights)
 - [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
-- [Methods](#methods)
 - [Evaluation Metrics](#evaluation-metrics)
+- [Methods](#methods)
 - [Challenges and Opportunities](#challenges-and-opportunities)
 - [Contributing](#contributing)
 - [Citation](#citation)
@@ -61,6 +61,15 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 | PET / MRI | Task I | [Monash vis-fPET-fMRI](https://openneuro.org/datasets/ds002898) | 10 healthy adults | An OpenNeuro simultaneous FDG-fPET/BOLD-fMRI dataset releasing unreconstructed PET list-mode source data, normalization and sinogram-related files, and reconstructed PET images for PET reconstruction pipeline development. |
 | PET / MRI | Task I | [Monash DaCRA fPET-fMRI](https://openneuro.org/datasets/ds004233) | 15 participants | An OpenNeuro FDG-fPET/fMRI dataset comparing bolus, infusion, and bolus-infusion protocols and releasing unreconstructed PET list-mode data for offline dynamic PET reconstruction. |
 | SPECT / CT | Task I | [Lu-177 DOTATATE Projection Data](https://deepblue.lib.umich.edu/data/concern/data_sets/9c67wn05f) | 2 patients scanned at 4 post-therapy time points | A rare public human SPECT reconstruction dataset containing Lu-177 SPECT projection data and CT-based attenuation coefficient maps for quantitative SPECT reconstruction and dosimetry. |
+
+## Evaluation Metrics
+
+| Category | Metrics |
+| --- | --- |
+| Pixel-wise error | MSE, RMSE, NRMSE, MAE |
+| Signal and noise | PSNR, SNR, CNR |
+| Perceptual / structural similarity | SSIM, LPIPS, FSIM, cosine similarity |
+| Efficiency | Reconstruction time, rendering FPS, parameter count |
 
 ## Methods
 
@@ -153,15 +162,6 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 | Radiance field | US | [UlRe-NeRF](https://arxiv.org/abs/2408.00860) | 2024 | - | A 3D ultrasound neural rendering method that incorporates ultrasound reflection direction parameterization for improved view-dependent synthesis. |
 | Radiance field | US | [NeRF-US](https://arxiv.org/abs/2408.10258) | 2024 | [Code](https://rishitdagli.com/nerf-us/) | A neural radiance field framework designed to reduce ultrasound imaging artifacts and improve 3D ultrasound reconstruction in real-world settings. |
 
-## Evaluation Metrics
-
-| Category | Metrics |
-| --- | --- |
-| Pixel-wise error | MSE, RMSE, NRMSE, MAE |
-| Signal and noise | PSNR, SNR, CNR |
-| Perceptual / structural similarity | SSIM, LPIPS, FSIM, cosine similarity |
-| Efficiency | Reconstruction time, rendering FPS, parameter count |
-
 ## ***Challenges and Opportunities***
 ## **Transfer learning**
 | No. | Title |Pub |   Abstract| Code |
@@ -227,17 +227,16 @@ Suggested entry format:
 ```markdown
 | Representation | Modality | Paper | Year | Code | Why it matters |
 | --- | --- | --- | --- | --- | --- |
-| Volume | CT | [Method Name](paper-url) | 2026 | [Code](repo-url) | One-sentence reconstruction-focused summary. |
+| Representation name | Modality name | [Paper Name](paper-url) | YYYY | [Code](repo-url) or - | One-sentence reconstruction-focused summary. |
 ```
 
-## Citation
-
-If this repository or the review helps your work, please cite:
+## ***Citation***
 
 ```bibtex
-@article{yang2026representation,
-  title={Representation Paradigms in AI-based 3D Radiological Image Reconstruction: A Systematic Review},
-  author={Yang, Yuezhe and Bi, Lei and Yang, Boyu and Wang, Yaqian and He, Yang and Peng, Yige and Jin, Zhe and Dong, Xingbo and Kim, Jinman},
-  year={2026}
+@article{yang2025explicit,
+  title={Explicit and implicit representations in AI-based 3D reconstruction for radiology: a systematic review},
+  author={Yang, Yuezhe and Yang, Boyu and Wang, Yaqian and He, Yang and Dong, Xingbo and Jin, Zhe},
+  journal={arXiv preprint arXiv:2504.11349},
+  year={2025}
 }
 ```
