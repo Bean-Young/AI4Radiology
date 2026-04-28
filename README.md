@@ -11,6 +11,7 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 
 ## ***Contents***
 
+- [Abstract](#abstract)
 - [Highlights](#highlights)
 - [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
@@ -19,6 +20,10 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 - [Challenges and Opportunities](#challenges-and-opportunities)
 - [Contributing](#contributing)
 - [Citation](#citation)
+
+## ***Abstract***
+
+The demand for high-quality medical imaging in clinical practice and assisted diagnosis has made 3D reconstruction in radiological imaging a key research focus. Artificial intelligence (AI) has emerged as a promising approach for improving reconstruction accuracy while reducing acquisition and processing time, thereby minimizing patient radiation exposure and discomfort and ultimately benefiting clinical diagnosis. This review surveys state-of-the-art AI-based 3D reconstruction algorithms in radiological imaging and organizes them into four representation families according to how the reconstructed target is parameterized: discrete grid representations, explicit basis expansion representations, explicit primitive representations, and implicit neural representations. In particular, the review clarifies the relationships among these representation forms and highlights radiance field methods as a specialized subtype of implicit neural representation. In addition, we summarize commonly used evaluation metrics and benchmark datasets for radiological image reconstruction. Finally, we discuss the current state of development, major challenges, and future research directions in this rapidly evolving field. Our project is available at: [https://github.com/Bean-Young/AI4Radiology](https://github.com/Bean-Young/AI4Radiology).
 
 ## ***Highlights***
 
