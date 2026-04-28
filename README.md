@@ -36,7 +36,19 @@ This project was created by [***Yuezhe Yang***](https://bean-young.github.io) fo
 | Explicit primitive | Use adaptive primitives such as 3D Gaussians or meshes. | Efficient adaptive modeling and fast rendering potential. | Requires specialized initialization, rendering, and optimization. |
 | Implicit neural | Model anatomy or measurements with continuous coordinate-query functions. | Strong continuous modeling under sparse-view or low-dose settings. | Expensive optimization and weaker interpretability. |
 
+<p align="center">
+  <img src="assets/representation_taxonomy.png" alt="Taxonomy of representation families for AI-based 3D reconstruction in radiological imaging" width="920">
+</p>
+
+<p align="center"><em>Taxonomy of representation families for AI-based 3D reconstruction in radiological imaging.</em></p>
+
 ## ***Datasets***
+
+<p align="center">
+  <img src="assets/reconstruction_tasks.png" alt="Three distinct task types in radiological image reconstruction" width="920">
+</p>
+
+<p align="center"><em>Three distinct task types in radiological image reconstruction.</em></p>
 
 | Modality | Task | Dataset | Size | Details |
 | --- | --- | --- | --- | --- |
